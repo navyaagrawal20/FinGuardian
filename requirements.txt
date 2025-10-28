@@ -1,0 +1,23 @@
+# Core App
+streamlit==1.35.0
+
+# PDF Parsing
+PyMuPDF==1.23.20
+
+# LLM & Transformers
+transformers==4.41.2
+torch==2.3.0
+sentence-transformers==2.7.0
+
+# Classification Models (e.g., BERT spam detector)
+scikit-learn==1.5.0
+
+# Visualization
+plotly==5.22.0
+
+# Optional for local LLMs (if using Hugging Face)
+accelerate==0.30.1
+huggingface_hub==0.22.2
+
+# Optional for OpenAI
+openai==1.30.1
