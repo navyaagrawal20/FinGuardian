@@ -66,5 +66,4 @@ If you'd like, I can also:
 - Clean up the temporary worktree I created earlier, or
 - Add a short HOWTO for adding tests and CI.
 
-Tell me which of those you'd like next.
-# FinGuardian
+
