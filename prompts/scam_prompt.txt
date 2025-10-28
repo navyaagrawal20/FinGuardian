@@ -1,0 +1,3 @@
+Classify this message as SCAM or SAFE and explain why.
+
+Message: "Dear user, click here to receive ₹50,000 reward: http://bit.ly/fake-offer"
